@@ -1,0 +1,131 @@
+{
+  "posts": [
+    {
+      "Hobby": [
+        "Singing"
+      ],
+      "name": "Smit Hirapara",
+      "email": "smit@hirapara.com",
+      "number": "9898769898",
+      "date": "2022-09-08",
+      "gender": "Male",
+      "color": "#8b1313",
+      "id": 16
+    },
+    {
+      "Hobby": [
+        "Traveling"
+      ],
+      "name": "Ayush Hirapara",
+      "email": "ayushhirapara@gmail.com",
+      "number": "9898981234",
+      "date": "2022-09-04",
+      "gender": "Other",
+      "color": "#ff0000",
+      "id": 17
+    },
+    {
+      "Hobby": [
+        "Driving",
+        "Singing"
+      ],
+      "name": "tulsi r HiraparA",
+      "email": "ayushhirapara@gmail.com",
+      "number": "8212121211",
+      "date": "2022-09-09",
+      "gender": "male",
+      "color": "#842424",
+      "id": 25
+    },
+    {
+      "Hobby": [
+        "Singing",
+        "Traveling"
+      ],
+      "name": "KrishaAyush",
+      "email": "KAH@gmail.com",
+      "number": "9090909887",
+      "date": "2022-08-30",
+      "gender": "Female",
+      "color": "#999999",
+      "id": 30
+    },
+    {
+      "Hobby": [
+        "Singing"
+      ],
+      "name": "AkHIrapara",
+      "email": "ak.hirapara@gmail.com",
+      "number": "8899889988",
+      "date": "2022-10-08",
+      "gender": "Male",
+      "color": "#8f0000",
+      "id": 32
+    },
+    {
+      "Hobby": [
+        "Traveling"
+      ],
+      "name": "tulsiHirapara",
+      "email": "ayushhirapara@gmail.com",
+      "number": "1234999999",
+      "date": "2022-09-10",
+      "gender": "Male",
+      "color": "#ff0000",
+      "id": 36
+    },
+    {
+      "Hobby": [
+        "Traveling"
+      ],
+      "name": "ayush",
+      "email": "ayushhirapara@gmail.com",
+      "number": "1234111111",
+      "date": "2022-08-31",
+      "gender": "Female",
+      "color": "#e33131",
+      "id": 38
+    },
+    {
+      "Hobby": [
+        "Singing"
+      ],
+      "name": "Om R Hirapara",
+      "email": "ayushhirapara@gmail.com",
+      "number": "1234111111",
+      "date": "2022-09-01",
+      "gender": "Male",
+      "color": "#db0000",
+      "id": 39
+    },
+    {
+      "Hobby": [
+        "Traveling"
+      ],
+      "name": "akshil",
+      "email": "malani@akshil.com",
+      "number": "9898232376",
+      "date": "1212-12-12",
+      "gender": "Female",
+      "color": "#ff0000",
+      "id": 43
+    },
+    {
+      "Hobby": [
+        "Singing",
+        "Traveling"
+      ],
+      "name": "Krisha",
+      "email": "krisha@mangukiya.com",
+      "number": "9876987698",
+      "date": "2022-09-07",
+      "gender": "Female",
+      "color": "#94518b",
+      "id": 44
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,262 @@
+.App {
+  width: 100%;
+  text-align: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
+.Tbl{
+  margin: 0 auto;
+  width: 75%;
+}
+.form{
+  text-align: left;
+  width: 30%;
+  padding: 40px;
+  display: inline-block;
+}
+.form label{
+  transition: 0.2s;
+  font-size: 20px;
+  color: gray;
+  padding: 15px;
+}
+.i-name:first-child{
+  display: inline-block;
+  margin-left: 30px;
+}
+.i-radio{
+  padding: 10px;
+  font-size: 30px;
+}
+.App .form input{
+  /* background-color: #000000; */
+  /* color: black; */
+  font-size: 15px;
+}
+.App .form span{
+  color: red;
+  display: block;
+  margin-left: 8px;
+  padding: 8px;
+}
+.i-name{
+  font-family: inherit;
+  width: 70%;
+  border: 0;
+  border-bottom: 1.5px solid gray;
+  outline: 0;
+  font-size: 1.3rem;
+  color: rgb(255, 255, 255);
+  padding: 7px 0;
+  background: transparent;
+  transition: border-color 0.2s;
+}
+.sub{
+  width: 100%;
+  text-align: center;
+}
+.button-6 {
+  background-color: #ffffff00;
+  border: 1px solid rgba(255, 255, 255, 0.495);
+  border-radius: .25rem;
+  
+  color: rgba(255, 255, 255, 0.85);
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 500;
+  justify-content: center;
+  line-height: 1.25;
+  margin: 0 auto;
+  min-height: 3rem;
+  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  position: relative;
+  transition: all 250ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+}
+
+.button-6:hover,
+.button-6:focus {
+  border-color: rgba(255, 255, 255, 0.6);
+  box-shadow: rgba(255, 255, 255, 0.2) 0 4px 12px;
+  color: rgb(255, 255, 255);
+}
+
+.button-6:hover {
+  transform: translateY(-1px);
+}
+
+.button-6:active {
+  background-color: #F0F0F1;
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+  color: rgba(0, 0, 0, 0.65);
+  transform: translateY(0);
+}
+
+.Edit .button-6 {
+  background-color: #ffffff00;
+  border: 1px solid rgba(255, 255, 255, 0.495);
+  border-radius: .25rem;
+  
+  color: rgba(255, 255, 255, 0.85);
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 500;
+  justify-content: center;
+  line-height: 1.25;
+  margin: 0 auto;
+  min-height: 3rem;
+  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  position: relative;
+  transition: all 250ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+}
+
+.Edit .button-6:hover,
+.Edit .button-6:focus {
+  border-color: rgba(255, 255, 255, 0.6);
+  box-shadow: rgba(255, 255, 255, 0.2) 0 4px 12px;
+  color: rgb(255, 255, 255);
+}
+
+.Edit .button-6:hover {
+  transform: translateY(-1px);
+}
+
+.Edit .button-6:active {
+  background-color: #F0F0F1;
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+  color: rgba(0, 0, 0, 0.65);
+  transform: translateY(0);
+}
+.Edit .i-date{
+  border: 1.5px solid rgba(0, 0, 0, 0.5);
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+} 
+.i-date{
+  width: 68%;
+  margin: 20px;
+  height: 23px;
+  border: 1.5px solid rgba(128 , 128, 128, 0.5);
+  background-color: black;
+  color: white;
+}
+.i-date:focus{
+  border-color: gray;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.Nav li{
+  display: inline-block;
+  text-decoration: none;
+  padding: 5px;
+  margin: 10px 30px;
+  color: #282c34;
+  background-color: #ffffff;
+  transition: all 1s;
+  border-radius: 10px;
+}
+.nav li:hover{
+  color: rgba(0, 0, 0, 5);
+
+}
+.Nav{
+  background-color: rgb(223, 218, 255);
+  height: 50px;
+  align-items: center;
+  margin-top: 0;
+  vertical-align: middle;
+}
+.EditView{
+  font-size: 22px;
+  color: green;
+  cursor: pointer;
+}
+.Hobby{
+  display: inline-block;
+  margin-left: 95px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.dots{
+  cursor: pointer;
+  padding: 5px;
+  margin-left: 3px;
+}
+.i-color{
+  width: 100%;
+  border: none;
+  height: 18px;
+  background-color: transparent;
+  margin: 20px;
+
+
+}
+.HB{
+  display: block;
+  padding: 15px;
+}
+.icon{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.i-con{
+  display: block;
+  padding: 3px;
+  margin-left: 3px;
+  text-align: center;
+  cursor: pointer;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.icontype{
+  text-align: center;
+  margin-left: 5px;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(4, 3, 3);
+}
+.Edit .form input{
+  color: black;
+  margin-left: 8px;
+  padding: 8px;
+}
+.Edit .form .HB{
+  display: inline-block;
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
